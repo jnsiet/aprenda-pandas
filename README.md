@@ -6,7 +6,7 @@ análises de dados.
 
 ## Sobre o Pandas
 
-O Pandas é uma biblioteca de código aberto para a linguagem de programação Python. Fornece ferramentas para análise e
+Pandas é uma biblioteca de código aberto para a linguagem de programação Python. Fornece ferramentas para análise e
 manipulação de dados. Ele é amplamente utilizado em ciência de dados, análise financeira, estatística, entre outras
 áreas, devido à sua capacidade de lidar com dados de forma eficiente.
 
